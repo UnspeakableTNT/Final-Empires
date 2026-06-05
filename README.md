@@ -32,7 +32,7 @@ _Coming soon._
 
 ## About / contact
 
-Built by [your name]. Find me at [itch.io / X / email — your links here].
+Built by Martin Garas. Find me at https://mut-studios.itch.io/ https://www.youtube.com/@MUT-Studios.
 
 ---
 
