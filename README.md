@@ -4,15 +4,15 @@ Real-time multiplayer strategy: you start as a single nation, try to swallow the
 
 **▶ Play it: https://finalempires.com**
 
-This repository is **not** the game's source. The code stays private — this is where I write about how the game is built: the engineering, the systems, and the occasional bug that nearly broke everything.
+This repository is **not** the game's source. The code stays private; this is where I write about how the game is built: the engineering, the systems, and the occasional bug that nearly breaks everything.
 
 ## About the game
 
-- Browser-based, nothing to install — runs on Cloudflare.
+- Browser-based, nothing to install, runs on Cloudflare.
 - Real-time multiplayer on a host-authoritative simulation (one host runs the world, clients stay in sync).
 - 195 real-world nations, plus procedurally generated filler nations for large maps (400+).
 - Bots with difficulty tiers from Easy up to Impossible.
-- A full war economy — cities, factories, troop camps, ports — and a high-tech arsenal: jet strikes, warships, submarines, and nuclear / MIRV options.
+- A full war economy (cities, factories, troop camps, ports) and a high-tech arsenal: jet strikes, warships, submarines, and nuclear / MIRV options.
 - An infamy-and-sanctions system, so conquering the world has a cost.
 - The **Final Empire** end-game boss that turns the late game into a survival fight.
 
