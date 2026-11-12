@@ -16,6 +16,13 @@ This repository is **not** the game's source. The code stays private; this is wh
 - An infamy-and-sanctions system, so conquering the world has a cost.
 - The **Final Empire** end-game boss that turns the late game into a survival fight.
 
+## What I'm working on
+
+The story mode still needs work. I'm cleaning up the controls, checking saving and audio, and making workers, scouts and armies easier to use. No finished-release claim yet.
+
+- [November 11 development update](reports/2026-11-11-story-mode-update.md)
+- [Problems I'm checking before release](reports/story-mode-checklist.md)
+
 ## Technical write-ups
 
 Devlogs and post-mortems on building and debugging the game:
